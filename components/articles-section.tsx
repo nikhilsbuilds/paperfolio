@@ -29,7 +29,7 @@ export function ArticlesSection() {
                 src="/images/article-design-tools.png"
                 alt="Design tools illustration"
                 fill
-                className="object-contain p-4 md:p-6 rounded-2xl transition-transform duration-500 ease-out group-hover:scale-110"
+                className="object-cover rounded-2xl transition-transform duration-500 ease-out group-hover:scale-110"
               />
             </div>
             <div className="p-6 md:p-8">
