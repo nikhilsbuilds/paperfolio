@@ -1,30 +1,49 @@
-# Paperfolio landing page
+# Cooked this Paperfolio template with V0 | Here’s the template you can use for free
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://v0.link/nikhil-shukla)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.link/paperfolio)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/helpinggeeks/v0-paperfolio-landing-page-w6)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/IKJ21kToIah)
+![Paperfolio Template Preview](https://global.discourse-cdn.com/vercel/original/2X/e/e8a5d554ecf92e4adb4a718138c60ad7e0c7510e.png)
 
-## Overview
+I’ve been experimenting with **V0 - by Vercel**, and I rebuilt the popular **Paperfolio** layout originally created by **Brix Templates**.
+This is a community-made clone — all ownership of the original design stays with @brixtemplatesbrixtemplates.
+My goal was simply to recreate it in V0 so anyone can use or remix it.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## Live Demo & Template Access
 
-Your project is live at:
+**→  Template (Clone / Remix):** https://v0.link/paperfolio
 
-**[https://vercel.com/helpinggeeks/v0-paperfolio-landing-page-w6](https://vercel.com/helpinggeeks/v0-paperfolio-landing-page-w6)**
+**→  Live Preview:** https://v0-paperfolio.vercel.app
 
-## Build your app
+---
 
-Continue building your app on:
+## Video Walkthrough
 
-**[https://v0.app/chat/IKJ21kToIah](https://v0.app/chat/IKJ21kToIah)**
+**→ Watch the walkthrough on X:**
+[https://x.com/i/status/1994130537464910310](https://x.com/i/status/1994130537464910310)
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## What’s Inside the Template
+
+* Clean portfolio with hero section and highlight-style text blocks
+* Minimal, bold layout focused on showcasing your work
+* Reusable components built directly in V0
+* Easy to customize for personal portfolios or client sites
+
+---
+
+## How to Use It
+
+1. Open the template → https://v0.link/paperfolio
+2. Click on “Open in V0”
+3. Make your styling tweaks
+4. Deploy on Vercel
+
+That’s it — you have a clean, modern portfolio site ready to ship.
+
+---
+
+If you end up customizing this, I’d like to see what you build.
